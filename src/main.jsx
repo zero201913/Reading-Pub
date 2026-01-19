@@ -11,11 +11,11 @@ const pinia = createPinia();
 // 使用持久化插件
 pinia.use(piniaPluginPersistedstate);
 
+// 将Pinia实例挂载到window对象，以便在组件中使用
+window.pinia = pinia;
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
 );
-
-// 将pinia实例挂载到window对象，以便在组件中使用
-window.pinia = pinia;

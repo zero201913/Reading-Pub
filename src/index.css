@@ -10,15 +10,46 @@
   --font-family: Arial, sans-serif;
 }
 
+/* 背景图片容器样式 */
+.background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -2;
+  transition: background-image 1s ease-in-out;
+}
+
+/* 浅色模式下的背景图片样式 */
+.background-container.light-mode {
+  filter: brightness(1) contrast(1) saturate(1);
+}
+
+/* 背景叠加层 */
+.background-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+  z-index: -1;
+  transition: background-color 0.5s ease;
+}
+
 body {
   font-family: var(--font-family);
-  background-color: #f5f5f5;
+  background-color: transparent;
   color: #333;
   line-height: 1.6;
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 100vh;
   margin: 0 auto;
   padding: 20px;
 }
@@ -87,6 +118,38 @@ body {
   color: #2c3e50;
 }
 
+.search-results {
+  color: #3498db;
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+}
+
+/* 分页控件样式 */
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.pagination-btn {
+  transition: all 0.3s ease;
+}
+
+.pagination-btn:hover {
+  background-color: #3498db;
+  color: white;
+}
+
+.pagination-btn.active:hover {
+  background-color: #2980b9;
+}
+
+/* 搜索容器样式 */
+.search-container {
+  margin: 0 2rem;
+}
+
 /* 文章列表样式 */
 .articles-grid {
   display: grid;
@@ -96,11 +159,11 @@ body {
 }
 
 .article-card {
-  background-color: white;
+  background-color: var(--paper-color);
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   padding: 1.5rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
   text-align: left;
 }
 
@@ -114,12 +177,8 @@ body {
   margin-bottom: 1rem;
   font-size: 1.2rem;
   line-height: 1.5;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
+  /* 移除overflow: hidden和max-height限制，让标题可以完整显示 */
   min-height: 4.5rem;
-  max-height: 6rem;
 }
 
 .article-card .meta {
@@ -228,6 +287,39 @@ body {
   background-color: gold;
 }
 
+.highlight-word.active {
+  background-color: gold;
+}
+
+.highlight-tooltip {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  z-index: 1000;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.highlight-tooltip::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid rgba(0, 0, 0, 0.8);
+}
+
 /* 黑暗模式样式 */
 .dark-mode {
   background-color: #000000;
@@ -248,13 +340,13 @@ body {
 }
 
 .dark-mode .article-card {
-  background-color: #1a1a1a;
+  background-color: var(--paper-color);
   box-shadow: 0 2px 10px rgba(255, 255, 255, 0.1);
 }
 
 .dark-mode .article-card h3 {
   color: #ffffff;
-  background-color: #1a1a1a;
+  background-color: var(--paper-color);
 }
 
 .dark-mode .article-card .meta {
@@ -306,6 +398,15 @@ body {
 
 .dark-mode .highlight-word:hover {
   background-color: #ffc107;
+}
+
+.dark-mode .highlight-tooltip {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #000000;
+}
+
+.dark-mode .highlight-tooltip::after {
+  border-top-color: rgba(255, 255, 255, 0.9);
 }
 
 /* 响应式设计 */
