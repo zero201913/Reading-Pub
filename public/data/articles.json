@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Richest oil states should pay climate tax, says Gordon Brown",
     "titleCN": "戈登·布朗表示，最富有的石油国家应支付气候税",
-    "createdAt": "2026-01-21T10:43:53.470Z",
+    "createdAt": "2026-01-31T05:47:04.371Z",
     "paragraphs": [
       {
         "original": "The world's richest *oil states*(石油国家) pay a global *windfall tax*(暴利税) to help poorer nations *combat climate change*(应对气候变化), ex-PM Gordon Brown has said.",
@@ -79,7 +79,7 @@
     "id": "10",
     "title": "Where to watch A Christmas Carol",
     "titleCN": "在哪里看圣诞颂歌",
-    "createdAt": "2026-01-21T10:43:53.474Z",
+    "createdAt": "2026-01-31T05:47:04.373Z",
     "paragraphs": [
       {
         "original": "This year marks the 180th anniversary of *Charles Dickens'*(查尔斯·狄更斯) *A Christmas Carol*(圣诞颂歌), which is one of the most famous *Christmas stories*(圣诞故事) ever written. Since its first *publication*(出版) in 1843, readers have constantly revisited the *tale*(故事) of *Ebenezer Scrooge*(埃比尼泽·斯克鲁奇), a joyless old man who loves only money. One year, on a magical *Christmas Eve*(平安夜), Scrooge is visited by the *ghost*(鬼魂) of his late *business partner*(商业伙伴), *Jacob Marley*(雅各布·马利), as well as the *Ghosts of Christmas Past, Present, and Future*(圣诞过去、现在和未来的鬼魂)(aka the Ghost of Christmas Yet to Come).",
@@ -111,7 +111,7 @@
     "id": "11",
     "title": "Why are two political parties dominant in the U.S.",
     "titleCN": "为什么两个政党在美国占主导地位",
-    "createdAt": "2026-01-21T10:43:53.475Z",
+    "createdAt": "2026-01-31T05:47:04.374Z",
     "paragraphs": [
       {
         "original": "Two parties dominate the U.S. *political system*(政治体系) in large part because the U.S. system of *representation*(代表制) is based on the top vote getter in each *district*(选区). *Multiparty democracies*(多党制民主国家) typically use a system in which representation is *proportional*(按比例) to the number of votes received.",
@@ -131,7 +131,7 @@
     "id": "12",
     "title": "Afghan girls and women carry donated aid to their tents during a fierce sandstorm",
     "titleCN": "一场猛烈的沙尘暴中，阿富汗女孩和妇女将捐赠的援助物资搬到帐篷里",
-    "createdAt": "2026-01-21T10:43:53.476Z",
+    "createdAt": "2026-01-31T05:47:04.374Z",
     "paragraphs": [
       {
         "original": "*UNICEF*(联合国儿童基金会), the UN's *aid and relief organization*(援助和救济组织) for children, has called for greater support for the nearly 100,000 children affected by the *October earthquakes*(10月地震) in the western Afghan province of *Herat*(赫拉特).",
@@ -195,7 +195,7 @@
     "id": "13",
     "title": "Letter: So far, no intervention has been effective for obesity",
     "titleCN": "信件：到目前为止，没有任何干预措施对肥胖有效",
-    "createdAt": "2026-01-21T10:43:53.477Z",
+    "createdAt": "2026-01-31T05:47:04.375Z",
     "paragraphs": [
       {
         "original": "From Professor Arne Astrup, Senior Vice President, *Obesity and Nutritional Sciences*(肥胖与营养科学), *Novo Nordisk Foundation*(诺和诺德基金会), *Copenhagen*(哥本哈根), Denmark",
@@ -219,7 +219,7 @@
     "id": "14",
     "title": "Climate change delaying blue whale migration: expert",
     "titleCN": "气候变化推迟蓝鲸迁徙：专家",
-    "createdAt": "2026-01-21T10:43:53.478Z",
+    "createdAt": "2026-01-31T05:47:04.376Z",
     "paragraphs": [
       {
         "original": "CANBERRA, Nov. 13 (Xinhua) - Warming oceans are delaying the migration of *blue whales*(蓝鲸), Australian experts have warned.",
@@ -264,10 +264,254 @@
     ]
   },
   {
+    "id": "15",
+    "title": "Ozone hole at record size, posing grave threats to Earth, humanity, scientist warns",
+    "titleCN": "臭氧空洞创历史新高，科学家警告对地球和人类构成严重威胁",
+    "createdAt": "2026-01-31T05:47:04.377Z",
+    "paragraphs": [
+      {
+        "original": "‘We must remain vigilant and observe for a long time to ensure it will steadily recover in the long term,' says Parisa Ariya",
+        "translation": "“我们必须保持警惕并长期观察，确保它能在未来稳步恢复，”帕里萨·阿里亚说"
+      },
+      {
+        "original": "The hole above the Earth’s *ozone layer*(臭氧层) on the Antarctic “will have adverse impacts on the planet and human life,” an expert told Anadolu as the hole is among the largest recorded, about three times the size of Brazil.",
+        "translation": "南极洲上空的臭氧层空洞“将对地球和人类生活产生不利影响”，一位专家告诉阿纳多卢通讯社，这个空洞是有记录以来最大的，约为巴西面积的三倍。"
+      },
+      {
+        "original": "The hole's size variability is influenced by a strong wind band around Antarctica, a result of Earth's rotation and temperature differences. The band acts as a barrier, isolating air masses over polar latitudes.",
+        "translation": "臭氧层空洞的大小变化受南极洲周围强风带的影响，这是地球自转和温度差异的结果。这条风带就像一道屏障，将极地纬度上空的气团隔离开来。"
+      },
+      {
+        "original": "Professor Parisa Ariya, an expert in chemistry and atmospheric and oceanic sciences at McGill University, told Anadolu how the substances catalytically destroy ozone, posing risks to human health and the environment.",
+        "translation": "麦吉尔大学化学和大气与海洋科学专家帕里萨·阿里亚教授告诉阿纳多卢通讯社，这些物质如何通过催化作用破坏臭氧，对人类健康和环境构成风险。"
+      },
+      {
+        "original": "Ariya said human-made emitted gaseous and *halogenated molecules*(卤化分子) have caused a significant decrease in the ozone layer, “and thereby, the ozone layer's capability to filter the harsh radiation and expose us to stronger radiation with adverse health effects.”",
+        "translation": "阿里亚说，人类排放的气态和卤化分子导致臭氧层显著减少，“从而削弱了臭氧层过滤有害辐射的能力，使我们暴露在更强的辐射下，对健康产生不利影响。”"
+      },
+      {
+        "original": "In 1987, two years after the discovery of the ozone layer, heads of state and government gathered to sign the *Montreal Protocol*(蒙特利尔议定书) on Substances that Deplete the Ozone Layer, banning the use of *chlorofluorocarbons (CFCs)*(氯氟烃) -- chemicals that deplete the protective layer.",
+        "translation": "1987年，在臭氧层被发现两年后，各国国家元首和政府首脑齐聚一堂，签署了《关于消耗臭氧层物质的蒙特利尔议定书》，禁止使用氯氟烃（CFCs）——这种化学物质会消耗这一保护层。"
+      },
+      {
+        "original": "Despite the signing of the Montreal Protocol, Ariya insists that vigilance and updated protocols are imperative.",
+        "translation": "尽管签署了《蒙特利尔议定书》，阿里亚坚持认为保持警惕和更新协议至关重要。"
+      },
+      {
+        "original": "“We need to be more aware of these developments and have safeguards by evolving even further the original Montreal Protocol,” she said.",
+        "translation": "她说：“我们需要更了解这些发展，并通过进一步完善原始的《蒙特利尔议定书》来建立保障措施。”"
+      },
+      {
+        "original": "Ozone, also identified as a “*greenhouse gas*(温室气体),” plays a crucial role in regulating climate by trapping heat, said Ariya.",
+        "translation": "阿里亚说，臭氧也被认定为“温室气体”，通过捕获热量在调节气候方面发挥着关键作用。"
+      },
+      {
+        "original": "Scientific advancements, including satellite technology and spectrometers, enable accurate monitoring of ozone levels.",
+        "translation": "包括卫星技术和光谱仪在内的科学进步，使我们能够准确监测臭氧水平。"
+      },
+      {
+        "original": "Ariya reported steady recovery trends but urged continuous vigilance and observation to ensure sustained progress.",
+        "translation": "阿里亚报告了稳步恢复的趋势，但敦促持续保持警惕和观察，以确保进展持续。"
+      },
+      {
+        "original": "She emphasized that some of the halogenated compounds that are not yet banned and are used, for instance, in Asia, notably China, for agriculture and other purposes, are emitting and will have adverse effects on the planet and humans.",
+        "translation": "她强调，一些尚未被禁止的卤化化合物，例如在亚洲（尤其是中国）用于农业和其他目的的化合物，正在排放并将对地球和人类产生不利影响。"
+      },
+      {
+        "original": "She stressed that several sustainable alternatives exist, however, vigilance is crucial to prevent the release of hazardous materials.",
+        "translation": "她强调，存在几种可持续的替代方案，但保持警惕对于防止有害物质的释放至关重要。"
+      },
+      {
+        "original": "To protect the ozone layer, Ariya urged targeted efforts in cities where a significant portion of pollutants is emitted. Advocacy for cleaner cities, sustainable transport and lifestyle changes are essential in reducing human effects.",
+        "translation": "为了保护臭氧层，阿里亚敦促在排放大量污染物的城市采取有针对性的措施。倡导更清洁的城市、可持续的交通方式和生活方式的改变，对于减少人类影响至关重要。"
+      },
+      {
+        "original": "Ariya stressed the importance of long-term protection by bringing stakeholders together.",
+        "translation": "阿里亚强调，通过汇集利益相关者来实现长期保护的重要性。"
+      },
+      {
+        "original": "“We must remain *vigilant*() and observe for a long time to ensure it will steadily recover in the long term,” she said. “We also have to adjust the regulation appropriately with the change of emitters and other processes that are linked to ozone transformation in the future.”",
+        "translation": "她说：“我们必须保持警惕并长期观察，确保它能在未来稳步恢复。我们还必须随着排放者的变化和未来与臭氧转化相关的其他过程，适当地调整监管。”"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "China's air-pollution control efforts drive investment worth 4 trln yuan",
+    "titleCN": "中国大气污染治理带动4万亿元投资",
+    "createdAt": "2026-01-31T05:47:04.378Z",
+    "paragraphs": [
+      {
+        "original": "BEIJING, Dec. 11 (Xinhua) -- China's *air-pollution control efforts*(大气污染治理) have seen significant progress in recent years, driving the growth of the Chinese economy, according to the Ministry of Ecology and Environment on Monday.",
+        "translation": "北京，12月11日（新华社）——生态环境部周一表示，近年来中国的大气污染治理工作取得显著进展，推动了中国经济增长。"
+      },
+      {
+        "original": "China's improvements in air quality are moving at the fastest rate globally, while the issue of *coal pollution*(煤炭污染) has been basically solved across the country, Liu Bingjiang, chief engineer with the ministry, told a press conference.",
+        "translation": "生态环境部总工程师刘炳江在新闻发布会上表示，中国空气质量改善速度全球最快，全国煤炭污染问题已基本解决。"
+      },
+      {
+        "original": "China's efforts targeting air-pollution control have driven a total investment of about 4 trillion yuan (about 562.09 billion U.S. dollars) across the country, Liu said, adding that the efforts have also driven China's GDP to grow by about 5 trillion yuan.",
+        "translation": "刘炳江表示，中国大气污染治理工作已带动全国约4万亿元（约5620.9亿美元）的投资，同时推动中国GDP增长约5万亿元。"
+      },
+      {
+        "original": "The process of improving air quality has seen the broad application of new technologies and products independently developed by China, which has promoted the development of a slew of relevant industries, including the manufacturing of *environmental protection equipment*(环保设备) and *new energy vehicles*(新能源汽车), Liu said.",
+        "translation": "刘炳江指出，在空气质量改善过程中，中国自主研发的新技术、新产品得到广泛应用，推动了包括环保设备制造和新能源汽车在内的一系列相关产业发展。"
+      },
+      {
+        "original": "Meanwhile, a total of more than 3 million new urban jobs were created thanks to China's efforts on improving air quality, according to the ministry.",
+        "translation": "同时，据生态环境部统计，中国改善空气质量的努力已创造了超过300万个城镇新增就业岗位。"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Benefits of meditating in the morning",
+    "titleCN": "早晨冥想的好处",
+    "createdAt": "2026-01-31T05:47:04.379Z",
+    "paragraphs": [
+      {
+        "original": "Meditation’s benefits Trusted Source are not dependent on the time of day, but there are reasons why practitioners often recommend meditation in the morning.",
+        "translation": "冥想的好处并不取决于一天中的时间，但从业者通常推荐早晨冥想是有原因的。"
+      },
+      {
+        "original": "Starting the day off right",
+        "translation": "开启美好的一天"
+      },
+      {
+        "original": "Aine Rock, a certified meditation instructor and integrative wellness expert from Los Angeles, California, explains that meditating in the morning sets the tone for the rest of the day.",
+        "translation": "来自加利福尼亚州洛杉矶的认证冥想导师和综合健康专家艾因·洛克解释说，早晨冥想为一天的其余时间定下了基调。"
+      },
+      {
+        "original": "“Morning meditation lays a foundation of calmness and balance for the day ahead,” she says. “It helps in centering the mind, managing stress, and enhancing overall emotional well-being.”",
+        "translation": "她说：“早晨冥想为即将到来的一天奠定了平静和平衡的基础。它有助于集中注意力、管理压力并增强整体情感健康。”"
+      },
+      {
+        "original": "Managing extra-stressful days",
+        "translation": "应对特别紧张的日子"
+      },
+      {
+        "original": "Mathews points out there’s a meditation saying, often attributed to Gandhi, that on the days he is really busy, he meditates for 2 hours in the morning instead of 1.",
+        "translation": "马修斯指出，有一句经常被认为是甘地说的冥想名言：在他非常忙碌的日子里，他会在早晨冥想2小时，而不是1小时。"
+      },
+      {
+        "original": "“The point he is making is that meditation can help us prepare for the day, and the days that we may think we have the least time for meditation are perhaps the days we can benefit the most from it.”",
+        "translation": "“他想表达的是，冥想可以帮助我们为一天做准备，而那些我们可能认为最没时间冥想的日子，或许正是我们能从中获益最多的日子。”"
+      },
+      {
+        "original": "Morning peace and quiet",
+        "translation": "早晨的宁静"
+      },
+      {
+        "original": "Meditation in the morning can set the stage for your day, but the morning may also set the stage for meditation.",
+        "translation": "早晨冥想可以为你的一天做好准备，而早晨本身也可能为冥想创造理想条件。"
+      },
+      {
+        "original": "According to Caroline Schmidt, a licensed clinical social worker from St. Louis, Missouri, mornings tend to have an innate sense of peace before the hustle and bustle of the day.",
+        "translation": "密苏里州圣路易斯的持牌临床社会工作者卡罗琳·施密特表示，在一天的喧嚣开始之前，早晨往往有一种与生俱来的宁静感。"
+      },
+      {
+        "original": "Your mind is naturally calm from rest, and the world around you is quiet from collective slumber.",
+        "translation": "休息后，你的心灵自然平静，周围的世界也因集体的沉睡而安静。"
+      },
+      {
+        "original": "“Early mornings give an opportunity to have time alone, while everyone else continues to sleep,” she says. “This time can be for you, and you alone. And that’s something that’s pretty rare to experience, in a world that’s ever more connected by technology.”",
+        "translation": "她说：“清晨给了你独处的机会，而其他人还在睡觉。这段时间可以完全属于你自己。在一个因科技而日益紧密相连的世界里，这种体验相当罕见。”"
+      },
+      {
+        "original": "Easy opportunity to practice meditation",
+        "translation": "轻松练习冥想的机会"
+      },
+      {
+        "original": "One of the great things about meditation is that you don’t have to set a significant period of time aside for it, especially when you’re just starting out.",
+        "translation": "冥想的一大好处是，你不需要专门留出大量时间来练习，尤其是在刚开始的时候。"
+      },
+      {
+        "original": "Schmidt adds that mornings are also a perfect time to explore meditation in an environment where you’re already relaxed and comfortable — your bed.",
+        "translation": "施密特补充说，早晨也是在你已经放松舒适的环境中探索冥想的完美时间——比如你的床上。"
+      },
+      {
+        "original": "“As you’re just waking up and are still lying in bed, you can take the chance to connect with yourself for even just 5 minutes,” she says. “You can mindfully feel and explore how your body feels under the blankets.”",
+        "translation": "她说：“当你刚醒来还躺在床上时，你可以抓住机会与自己连接，哪怕只有5分钟。你可以用心感受并探索身体在毯子下的感觉。”"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Terracotta Warriors museum sees over 100,000 visits during holiday",
+    "titleCN": "兵马俑博物馆假期接待超10万人次",
+    "createdAt": "2026-01-31T05:47:04.380Z",
+    "paragraphs": [
+      {
+        "original": "This photo taken on April 26, 2023 shows the Terracotta Warriors at the pit No.1 of the Emperor Qinshihuang's Mausoleum Site Museum in Xi'an, northwest China's Shaanxi Province.",
+        "translation": "这张拍摄于2023年4月26日的照片展示了中国西北部陕西省西安市秦始皇陵兵马俑一号坑的兵马俑。"
+      },
+      {
+        "original": "A total of 100,486 visits were paid to the iconic *Terracotta Warriors*(兵马俑) in northwest China's Shaanxi Province during the three-day New Year holiday that ended Monday, local authorities said Tuesday.",
+        "translation": "当地有关部门周二表示，在周一结束的三天新年假期期间，位于中国西北部陕西省的标志性兵马俑共接待了100,486人次参观。"
+      },
+      {
+        "original": "The Emperor Qinshihuang's Mausoleum Site Museum, home to the world-renowned iconic Terracotta Warriors, recorded more than 11.2 million visits last year, hitting an annual high.",
+        "translation": "作为世界闻名的兵马俑所在地，秦始皇陵兵马俑博物馆去年接待游客超过1120万人次，创历史新高。"
+      },
+      {
+        "original": "It has seen a surging demand among people since 2023, with the current maximum daily capacity of the museum reaching 65,000 visits.",
+        "translation": "自2023年以来，该博物馆的游客需求激增，目前最大日接待量已达6.5万人次。"
+      },
+      {
+        "original": "The museum has adopted a series of measures to better meet the surging demand, such as early opening, delayed closing and staggered reservations.",
+        "translation": "为更好地满足激增的需求，博物馆采取了一系列措施，如提前开放、延迟闭馆和错峰预约。"
+      },
+      {
+        "original": "The museum has attracted over 150 million visitors from home and abroad since it opened in 1979.",
+        "translation": "自1979年开馆以来，该博物馆已吸引了来自国内外的超过1.5亿游客。"
+      },
+      {
+        "original": "Discovered in 1974, the army of Terracotta Warriors was built by Emperor Qinshihuang of the Qin Dynasty (221 B.C.-207 B.C.), who unified China for the first time.",
+        "translation": "兵马俑军阵于1974年被发现，由中国历史上第一位统一中国的秦朝（公元前221年-公元前207年）皇帝秦始皇建造。"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "China proposes an ambitious plan to prevent internet addiction in children",
+    "titleCN": "中国提出防止儿童网络成瘾的雄心计划",
+    "createdAt": "2026-01-31T05:47:04.380Z",
+    "paragraphs": [
+      {
+        "original": "The Cyberspace Administration proposes that developers create a ‘minor mode’ that offers content based on age and establishes time limits on devices",
+        "translation": "网信办提议开发者创建基于年龄提供内容并设置设备使用时间限制的「青少年模式」"
+      },
+      {
+        "original": "Chinese authorities have resolved to put the brakes on children’s social media addictions and control the content that children and teens consume online.",
+        "translation": "中国有关部门已决定遏制儿童社交媒体成瘾问题，并控制儿童和青少年在线消费的内容。"
+      },
+      {
+        "original": "The Cyberspace Administration of China (CAC), the country’s primary internet regulatory organ, has proposed that manufacturers of mobile devices, operating systems, applications and app stores create a new function called “minor mode,” which will involve a system of age-based content classification and establish time limits for use of the smart terminals. The proposal will be open to comments until September 2, and the timeline of its implementation has not been established. The project, which has been well-received by many parents, could bring a new challenge for tech companies, who face an increase in government intervention.",
+        "translation": "中国国家互联网信息办公室（网信办）作为中国主要的互联网监管机构，已提议移动设备、操作系统、应用程序和应用商店的制造商创建一个名为「青少年模式」的新功能，该功能将包括基于年龄的内容分类系统，并为智能终端的使用设定时间限制。该提案将在9月2日前公开征求意见，其实施时间表尚未确定。这一项目受到了许多家长的欢迎，但可能会给科技公司带来新的挑战，因为它们面临着政府干预的增加。"
+      },
+      {
+        "original": "Though most smart devices already have pre-installed parental control functions, CAC’s plan is much more ambitious. According to the description on its website, the proposal involves connecting mobile phones directly with app stores and apps themselves, so that the minor mode can be activated with a single click. The function will allow the user to access an interface adapted to their age. It can be disabled only with an adult’s verification and authorization.",
+        "translation": "尽管大多数智能设备已经预装了家长控制功能，但网信办的计划要雄心勃勃得多。根据其网站上的描述，该提案涉及将手机直接与应用商店和应用程序本身连接，以便一键激活青少年模式。该功能将允许用户访问适合其年龄的界面。只有通过成人的验证和授权才能禁用该功能。"
+      },
+      {
+        "original": "Once activated, warning notifications will be sent when the device has been used for more than 30 minutes continuously. Applications will not function between ten p.m. and six a.m. During those hours of inactivity, however, certain functions will be permitted, such as emergency calls or the use of educational platforms or others approved by the user’s parents.",
+        "translation": "一旦激活，当设备连续使用超过30分钟时，将发送警告通知。应用程序在晚上10点至早上6点之间将无法运行。然而，在这些不活跃的时段，某些功能将被允许使用，如紧急呼叫或使用教育平台或用户父母批准的其他平台。"
+      },
+      {
+        "original": "The system will be divided into five intervals according to age: below 3 years old, 3 to 8 years old, 8 to 12, 12 to 16 and 16 to 18. The time limits will also vary according to the group: 40 minutes for those younger than 8, an hour for those between 8 and 16 and up to two hours for teenagers between 16 and 18 years old.",
+        "translation": "该系统将根据年龄分为五个区间：3岁以下、3至8岁、8至12岁、12至16岁和16至18岁。时间限制也会因年龄段而异：8岁以下为40分钟，8至16岁为1小时，16至18岁的青少年最多为2小时。"
+      },
+      {
+        "original": "The text urges content creators to offer age-appropriate products and information. The CAC suggests that they “promote the fundamental values of socialism” and “traditional Chinese culture” in order to “cultivate minors’ morals and affection for their country.”",
+        "translation": "该文件敦促内容创作者提供适合年龄的产品和信息。网信办建议他们「弘扬社会主义核心价值观」和「中华优秀传统文化」，以「培养未成年人的道德品质和爱国情怀」。"
+      }
+    ]
+  },
+  {
     "id": "2",
     "title": "South Africa: Healthy Eating and Non-Communicable Disease Prevention",
     "titleCN": "南非：健康饮食与非传染性疾病预防",
-    "createdAt": "2026-01-21T10:43:53.480Z",
+    "createdAt": "2026-01-31T05:47:04.381Z",
     "paragraphs": [
       {
         "original": "The food we eat has a *large impact*(很大影响) on our health. An *unhealthy diet*(不健康饮食) typically high in sugar, *saturated fat*(饱和脂肪), and salt and low in vegetables and fruits, can contribute to the development of *non-communicable diseases*(非传染性疾病). Examples of *NCDs*(非传染性疾病) are diabetes, *hypertension*(高血压), *heart disease*(心脏病) and cancer. There are highly *prevalent*(普遍的) in South Africa and as a disease group, have become the largest killer in the country.",
@@ -296,10 +540,378 @@
     ]
   },
   {
+    "id": "20",
+    "title": "My 16 Eye-Opening Experiences of Culture Shock in China",
+    "titleCN": "我在中国经历的16个令人大开眼界的文化冲击",
+    "createdAt": "2026-01-31T05:47:04.382Z",
+    "paragraphs": [
+      {
+        "original": "Are you planning on visiting China and wondering what to expect? Culture shock in China is a common experience, especially for those coming from Western cultures.",
+        "translation": "你计划访问中国并想知道会遇到什么吗？在中国经历文化冲击是很常见的，尤其是对于来自西方文化的人来说。"
+      },
+      {
+        "original": "In this article, I will tell you about my general experience as a student in China and, more specifically, my culture shock experiences and how to overcome them.",
+        "translation": "在这篇文章中，我将讲述我作为中国学生的总体经历，更具体地说，是我经历的文化冲击以及如何克服它们。"
+      },
+      {
+        "original": "What is culture shock?",
+        "translation": "什么是文化冲击？"
+      },
+      {
+        "original": "Culture shock refers to the disorientation and emotional response experienced when encountering a new and unfamiliar cultural environment.",
+        "translation": "文化冲击指的是当遇到新的、陌生的文化环境时所经历的迷失方向和情绪反应。"
+      },
+      {
+        "original": "It occurs when facing differences in customs, traditions, language, and social norms. If you live in a Western country, you'll likely experience culture shock when going to China.",
+        "translation": "当面对习俗、传统、语言和社会规范的差异时，就会发生文化冲击。如果你生活在西方国家，去中国时很可能会经历文化冲击。"
+      },
+      {
+        "original": "My Chinese culture shock experiencesHere, I will share the main culture shocks I encountered in China.",
+        "translation": "我的中国文化冲击经历"
+      },
+      {
+        "original": "A \"community\" university life",
+        "translation": "\"社区式\"的大学生活"
+      },
+      {
+        "original": "University life in China made a big impression on me because it differed greatly from what I had previously experienced.",
+        "translation": "中国的大学生活给我留下了深刻的印象，因为它与我之前的经历大不相同。"
+      },
+      {
+        "original": "In my home country, Italy, I had never felt that \"community spirit\" that I found in the university in China; I would go to class and then go home and eat/study/do other activities by myself or with friends. In China, university is more than just the classrooms where you go to lecture or take exams. Chinese universities are like small cities, with a dormitory, supermarkets, canteen, restaurants, gymnasium, library, and many clubs and activities. In my case, the dormitory and classes were even in the same building.",
+        "translation": "在我的祖国意大利，我从未感受到中国大学里那种\"社区精神\"；我会去上课，然后回家自己或和朋友一起吃饭/学习/做其他活动。在中国，大学不仅仅是你去上课或考试的教室。中国的大学就像小城市，有宿舍、超市、食堂、餐厅、体育馆、图书馆和许多俱乐部和活动。在我的情况下，宿舍和教室甚至在同一栋楼里。"
+      },
+      {
+        "original": "So it was possible to use classrooms to study with classmates even in the evening. This setting may not be very different from what happens in your country, but becoming part of such a close-knit community was a very special experience for me.",
+        "translation": "所以即使在晚上也可以使用教室和同学一起学习。这种环境可能与你所在国家的情况没有太大不同，但成为这样一个紧密社区的一员对我来说是一种非常特别的体验。"
+      },
+      {
+        "original": "This cultural difference stems from how Chinese culture is more centered around community. In contrast, the Western world is more individualistic. This difference is something you'll notice in your everyday life in China:",
+        "translation": "这种文化差异源于中国文化更以社区为中心。相比之下，西方世界更注重个人主义。这种差异在你在中国的日常生活中会注意到："
+      },
+      {
+        "original": "Neighbors play and hang out together every day",
+        "translation": "邻居们每天一起玩耍和闲逛"
+      },
+      {
+        "original": "There are a lot of clubs.",
+        "translation": "有很多俱乐部。"
+      },
+      {
+        "original": "Even the elderly are rarely seen alone.",
+        "translation": "甚至很少看到老年人独自行动。"
+      },
+      {
+        "original": "Hot water",
+        "translation": "热水"
+      },
+      {
+        "original": "Hot water will cure anything",
+        "translation": "热水能治百病"
+      },
+      {
+        "original": "On several occasions, even in summer, I was served hot water. I must say that after the initial shock, I learned to appreciate it.",
+        "translation": "有好几次，即使在夏天，我也被提供热水。我必须说，在最初的震惊之后，我学会了欣赏它。"
+      },
+      {
+        "original": "However, once I left China, I lost this habit.",
+        "translation": "然而，一旦我离开中国，我就失去了这个习惯。"
+      },
+      {
+        "original": "Spitting",
+        "translation": "随地吐痰"
+      },
+      {
+        "original": "Chinese people, especially middle-aged men, are used to spit on the street, even if you are near them. Let me tell you, this was one of the most difficult habits to adapt to.",
+        "translation": "中国人，尤其是中年男性，习惯在街上吐痰，即使你在他们附近。让我告诉你，这是最难适应的习惯之一。"
+      },
+      {
+        "original": "Pace of life",
+        "translation": "生活节奏"
+      },
+      {
+        "original": "The pace of life is very hectic; people are always on the move and busy.",
+        "translation": "生活节奏非常快；人们总是在行动和忙碌。"
+      },
+      {
+        "original": "This way of life is also reflected in the organization of university life, with a schedule full of classes and activities.",
+        "translation": "这种生活方式也反映在大学生活的组织中，课程和活动安排得满满的。"
+      },
+      {
+        "original": "Often, especially if you use public transportation during rush hour, you might feel overwhelmed by the number of people or the hustle and bustle: I usually went to some public park to calm down a little. The lesser-known and less frequented ones are usually very well maintained and are real oases of tranquility. However, even the most popular parks are so large that you will find some peace and personal space.",
+        "translation": "通常，尤其是在高峰时段使用公共交通工具时，你可能会被人数或喧嚣所淹没：我通常会去一些公园冷静一下。那些不太知名、人迹罕至的公园通常维护得很好，是真正的宁静绿洲。然而，即使是最受欢迎的公园也很大，你会找到一些宁静和个人空间。"
+      },
+      {
+        "original": "These were my biggest experiences of culture shock in China. Even the things that I found most difficult at first are unique features that make up Chinese culture and make this country unforgettable: today, I miss those shocking experiences a lot.",
+        "translation": "这些是我在中国经历的最大文化冲击。即使是我最初觉得最困难的事情，也是构成中国文化的独特特征，使这个国家令人难忘：今天，我非常怀念那些令人震惊的经历。"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Beijing Winter Olympic champion Gao on way back to top form",
+    "titleCN": "北京冬奥会冠军高亭宇重返巅峰状态",
+    "createdAt": "2026-01-31T05:47:04.383Z",
+    "paragraphs": [
+      {
+        "original": "Beijing Olympic Winter Games gold medalist Gao Tingyu vows to get back to top form as soon as possible.",
+        "translation": "北京冬奥会金牌得主高亭宇誓要尽快重返巅峰状态。"
+      },
+      {
+        "original": "Beijing Olympic Winter Games gold medalist Gao Tingyu is striving to find his top form, finishing first in the men's 500m Division B at the ongoing Speed Skating World Cup here on Friday.",
+        "translation": "北京冬奥会金牌得主高亭宇正努力找回巅峰状态，在周五举行的速度滑冰世界杯男子500米B组比赛中获得第一名。"
+      },
+      {
+        "original": "Gao clocked a winning 34.87 seconds in the morning session, improving from 35.02s at the China Cup on November 11 in Harbin, which was his first competition in 21 months after his 500m victory at the Beijing Winter Olympics.",
+        "translation": "高亭宇在上午的比赛中以34.87秒的成绩夺冠，比11月11日在哈尔滨举行的中国杯上的35.02秒有所提高，这是他在北京冬奥会500米夺冠后21个月的首场比赛。"
+      },
+      {
+        "original": "\"I was at my 70% or perhaps 80% today. Because I don't have race points from last season so I need to start from Division B,\" Gao explained. \"I will move up to Division A tomorrow. It's good for me to gain more experience.\"",
+        "translation": "\"我今天的状态大概是70%或80%。因为我上赛季没有比赛积分，所以需要从B组开始，\"高亭宇解释道。\"我明天会升到A组。这对我积累更多经验有好处。\""
+      },
+      {
+        "original": "Racing again at the National Speed Skating Oval brought back memories from Beijing 2022 where Gao became China's first men's Olympic speed skating champion.",
+        "translation": "在国家速滑馆再次比赛让高亭宇回想起2022年北京冬奥会的记忆，当时他成为中国首位男子奥运会速滑冠军。"
+      },
+      {
+        "original": "\"I was so happy to compete here again, hearing the cheers from the spectators and with my family and friends watching from the stands,\" he said.",
+        "translation": "他说：\"我很高兴再次在这里比赛，听到观众的欢呼声，看到我的家人和朋友在看台上观看。\""
+      },
+      {
+        "original": "\"I was half a second slower than my winning result at the Beijing Winter Olympics, but I did my best today,\" he added.",
+        "translation": "他补充说：\"我比北京冬奥会夺冠时慢了半秒，但今天我已经尽力了。\""
+      },
+      {
+        "original": "25-year-old Gao went into a long break after the Beijing Games and just resumed training six months ago. He admitted that he needed some time to readjust to the strenuous training.",
+        "translation": "25岁的高亭宇在北京奥运会后休息了很长时间，六个月前才恢复训练。他承认自己需要一些时间来重新适应高强度的训练。"
+      },
+      {
+        "original": "\"It was painful training accompanied with injuries at the beginning,\" he said.",
+        "translation": "他说：\"一开始的训练很痛苦，还伴随着伤病。\""
+      },
+      {
+        "original": "But once stepping on the ice rink, he \"instantly let out all my energies as if it was in my instinct.\"",
+        "translation": "但一旦踏上冰场，他\"就像本能一样瞬间释放出所有能量\"。"
+      },
+      {
+        "original": "I am coming back, starting afresh, he concluded.",
+        "translation": "他总结道：\"我正在回来，重新开始。\""
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "WHY NOT ALL STEREOTYPES ARE BAD",
+    "titleCN": "并非所有刻板印象都是坏的",
+    "createdAt": "2026-01-31T05:47:04.383Z",
+    "paragraphs": [
+      {
+        "original": "Using Generalizations to Help Make Better Decisions",
+        "translation": "利用概括来帮助做出更好的决策"
+      },
+      {
+        "original": "We often speed through our fast-moving, complicated world using limited information to make tough decisions. But taking the right shortcuts isn't easy, said Dale Nance, JD, the John Homer Kapp Professor of Law at Case Western Reserve. In his new book—The Burdens of Proof: Discriminatory Power, Weight of Evidence, and Tenacity of Belief—Nance digs into complex decision-making in the midst of uncertainty. And in an undergraduate seminar he taught this year, Nance focused on the use of stereotypes in everything from regulating dangerous dogs to profiling potential terrorists. We asked him to explain the good and the bad of generalizations.",
+        "translation": "我们经常在这个快速发展、复杂多变的世界中，利用有限的信息做出艰难的决策。但凯斯西储大学法学教授戴尔·南斯（JD）表示，走对捷径并不容易。在他的新书《证明的负担：歧视性权力、证据权重和信念的韧性》中，南斯深入探讨了不确定性中的复杂决策过程。在今年教授的本科生研讨课上，南斯关注了刻板印象在从管制危险犬只到潜在恐怖分子侧写等各个领域的应用。我们请他解释概括的优缺点。"
+      },
+      {
+        "original": "Many people shy away from the idea of making decisions based on stereotypes. Why? Stereotype has a negative connotation. But a stereotype is simply a generalization about how a group of people behaves. It may be statistically accurate but not universally valid. Many believe we shouldn't make decisions affecting an individual based on a stereotype, even if it is statistically accurate. Say a person wants to make a decision by relying on a generalization that \"Children reared by single parents are more likely to be involved in criminal activity.\" Someone else may respond, \"What about the single-parented children who don't fit this generalization?\" It's one thing to challenge a generalization as inaccurate or to suggest a different generalization for use in the particular context. It's quite another to say we should ignore an accurate generalization just because there are exceptions to it. The real question is: What makes some uses of stereotypes inappropriate and others appropriate?",
+        "translation": "许多人回避基于刻板印象做决定的想法。为什么？因为刻板印象带有负面含义。但刻板印象不过是对一群人行为方式的概括。它可能在统计上是准确的，但并非普遍有效。许多人认为，我们不应该基于刻板印象做出影响个人的决定，即使它在统计上是准确的。假设有人想基于\"单亲家庭长大的孩子更可能参与犯罪活动\"这一概括做出决定。另一个人可能会回应：\"那些不符合这一概括的单亲家庭孩子呢？\"质疑某一概括不准确，或者建议在特定情境中使用不同的概括，是一回事。仅仅因为存在例外就说我们应该忽略准确的概括，则是另一回事。真正的问题是：是什么让一些刻板印象的使用不恰当，而另一些恰当？"
+      },
+      {
+        "original": "What are examples of useful stereotypes?",
+        "translation": "有用的刻板印象有哪些例子？"
+      },
+      {
+        "original": "Age requirements. Most accept that a person should be a certain age to vote or drive a car. Neither is based on universally valid generalizations: Some 25-year-olds shouldn't be voting and some 16-year-olds would be competent to do so. Some 12-year-olds could reasonably drive a car. Nor is individual testing always a workable solution to such problems. Testing is expensive and not without its own errors and abuses. Imagine the controversies that would attend any individualized test for voter competence. Who would be trusted to design such a test? Even for something like driving skill, if we are confident that the vast majority of 12-year-olds would be poor drivers, is it worth the costs of giving all 12-year-olds the opportunity to take some test that most will fail?",
+        "translation": "年龄要求。大多数人都接受，一个人必须达到一定年龄才能投票或开车。这两者都不是基于普遍有效的概括：有些25岁的人不应该投票，而有些16岁的人则有能力这样做。有些12岁的孩子可以合理地开车。个人测试也不总是解决这类问题的可行方案。测试成本高昂，且并非没有自身的错误和滥用。想象一下，任何针对选民能力的个性化测试都会引发的争议。谁会被信任来设计这样的测试？即使是像驾驶技能这样的事情，如果我们确信绝大多数12岁的孩子会是糟糕的司机，那么让所有12岁的孩子有机会参加一个大多数人都会失败的测试，是否值得？"
+      },
+      {
+        "original": "How, then, should we think about stereotypes?",
+        "translation": "那么，我们应该如何看待刻板印象？"
+      },
+      {
+        "original": "First, it's naive to say you can't use a generalization about a class of people unless it's universally valid—we use such stereotypes all the time and would be paralyzed without them. Second, working out the ways in which the use of a stereotype can go wrong is important, as is determining when some alternative, like individualized testing, is appropriate. Many generalizations, like those based on race or gender or religion, are rightly subject to special scrutiny because of their historical misuse. But even here, it would be an error to say that use of a stereotype is 'wrong' just because there exist exceptions to the generalization upon which it is based.",
+        "translation": "首先，说除非概括对一类人普遍有效否则就不能使用它，这种说法是天真的——我们一直在使用这样的刻板印象，没有它们我们会陷入瘫痪。其次，找出使用刻板印象可能出错的方式很重要，确定何时采用替代方案（如个性化测试）是合适的也很重要。许多概括，如基于种族、性别或宗教的概括，由于其历史上的滥用，理所当然地受到特殊审查。但即使在这里，仅仅因为存在基于概括的例外就说使用刻板印象是'错误的'，也是错误的。"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Melinda French Gates is a businesswoman and philanthropist.",
+    "titleCN": "梅琳达·弗兰奇·盖茨是一位商人和慈善家。",
+    "createdAt": "2026-01-31T05:47:04.384Z",
+    "paragraphs": [
+      {
+        "original": "She's a cofounder of the Bill & Melinda Gates Foundation, one of the world's largest private charitable organizations. She's also an author and an advocate.",
+        "translation": "她是比尔及梅琳达·盖茨基金会的联合创始人，该基金会是世界上最大的私人慈善组织之一。她也是一位作家和倡导者。"
+      },
+      {
+        "original": "When I spoke with French Gates, she said her background in computer science gives her a \"logical mindset\" about global problems. She told me that the best and most difficult parts of her job are the same: talking to people. This \"on the ground\" work is her favorite part of being a philanthropist, but hearing stories of despair is difficult. Here's part of my conversation with French Gates.",
+        "translation": "当我与弗兰奇·盖茨交谈时，她说她的计算机科学背景让她对全球问题有了\"逻辑思维\"。她告诉我，她工作中最好和最困难的部分是相同的：与人交谈。这种\"实地\"工作是她作为慈善家最喜欢的部分，但听到绝望的故事是困难的。以下是我与弗兰奇·盖茨的部分对话。"
+      },
+      {
+        "original": "What cause is most important to you, and why?",
+        "translation": "对你来说最重要的事业是什么，为什么？"
+      },
+      {
+        "original": "I've been working in this field for about 25 years. I really care about lifting up women and girls. I think that when girls and women can step into their full power in society, society changes for the better for everybody. So I'm very passionate about making sure girls and women have their full power, no matter where they live in the world.",
+        "translation": "我在这个领域工作了大约25年。我非常关心提升妇女和女孩的地位。我认为，当女孩和妇女能够在社会中充分发挥她们的力量时，社会会变得对每个人都更好。所以我非常热衷于确保女孩和妇女拥有她们的全部力量，无论她们生活在世界的哪个地方。"
+      },
+      {
+        "original": "What's your typical workday like?",
+        "translation": "你典型的工作日是什么样的？"
+      },
+      {
+        "original": "It depends on where I am. If I'm here in Seattle, a typical workday for me is being in the office [taking meetings]. Sometimes, it's reviewing strategies. Sometimes, it's allocating resources. If I'm out of Seattle, it's often meeting with our partners, trying to push a government leader to put more money or his or her voice behind something. Or, if I'm out in the field, it's talking to families.",
+        "translation": "这取决于我在哪里。如果我在西雅图，我典型的工作日是在办公室[开会]。有时是审查策略。有时是分配资源。如果我不在西雅图，通常是与我们的合作伙伴会面，试图推动政府领导人在某件事上投入更多资金或发声支持。或者，如果我在实地，就是与家庭交谈。"
+      },
+      {
+        "original": "How does your background in computer science help with your job?",
+        "translation": "你的计算机科学背景如何帮助你的工作？"
+      },
+      {
+        "original": "Computer science is very logical. I know you have a passion for math. So do I. And having that logical mindset, when you come across a problem in the world, you try to break it down into steps to understand it. I also know that numbers help us see things in the world. So I have a data focus. If I can't explain or understand something, I'll say, \"What are the statistics about that? What do we know?\"",
+        "translation": "计算机科学非常注重逻辑。我知道你热爱数学。我也是。拥有这种逻辑思维，当你遇到世界上的问题时，你会尝试将其分解为步骤来理解它。我也知道数字帮助我们看到世界上的事物。所以我注重数据。如果我无法解释或理解某件事，我会说：\"关于那件事的统计数据是什么？我们知道什么？\""
+      },
+      {
+        "original": "I have a score focus.",
+        "translation": "我注重得分。"
+      },
+      {
+        "original": "What's your advice for kids who want a career helping people, or working for a cause they care about, but don't know where to start?",
+        "translation": "对于想要从事帮助他人的职业，或为他们关心的事业工作，但不知道从哪里开始的孩子，你有什么建议？"
+      },
+      {
+        "original": "Start today. Start doing something you're passionate about, whether it's working at a food bank or volunteering at a library. There's huge power in kids thinking about their time, their expertise, and where they can give back.",
+        "translation": "从今天开始。开始做你热爱的事情，无论是在食品银行工作还是在图书馆做志愿者。孩子们思考他们的时间、他们的专业知识以及他们可以在哪里回馈社会，这其中蕴含着巨大的力量。"
+      },
+      {
+        "original": "The interview has been edited for length and clarity.",
+        "translation": "本次采访经过编辑，以保证长度和清晰度。"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Demystifying Web 2.0 and Web 3.0: Understanding the Evolution of the World Wide Web",
+    "titleCN": "揭秘Web 2.0和Web 3.0：理解万维网的演变",
+    "createdAt": "2026-01-31T05:47:04.385Z",
+    "paragraphs": [
+      {
+        "original": "This article discusses the transformations of the World Wide Web, focusing on Web 2.0 and Web 3.0. It outlines their distinct features, implications for users, and regulatory and ethical considerations. It also explores the potential direction of Web 3.0 and the importance of government and regulatory awareness as these technologies evolve.",
+        "translation": "本文讨论了万维网的转变，重点关注Web 2.0和Web 3.0。它概述了它们的独特特征、对用户的影响以及监管和伦理考虑。它还探讨了Web 3.0的潜在发展方向，以及随着这些技术的发展，政府和监管机构认识的重要性。"
+      },
+      {
+        "original": "The Evolution of the World Wide Web",
+        "translation": "万维网的演变"
+      },
+      {
+        "original": "The World Wide Web has undergone a series of dramatic transformations since its inception, with each stage of its evolution characterised by new technologies and modes of interaction. Two of these evolutionary stages are commonly referred to as \"Web 2.0\" and \"Web 3.0\". Each of these has its own distinct features and implications for Internet users. In this article, we will summarise the key characteristics, as well as some of the regulatory and ethical considerations, of Web 2.0 and Web 3.0, with a focus on where things might be heading with Web 3.0 and what governments and regulators need to be cognisant of as the technologies develop.",
+        "translation": "自诞生以来，万维网经历了一系列戏剧性的转变，每个发展阶段都以新技术和互动模式为特征。其中两个进化阶段通常被称为\"Web 2.0\"和\"Web 3.0\"。每个阶段都有其独特的特征和对互联网用户的影响。在本文中，我们将总结Web 2.0和Web 3.0的关键特征，以及一些监管和伦理考虑，重点关注Web 3.0可能的发展方向，以及随着这些技术的发展，政府和监管机构需要认识到的问题。"
+      },
+      {
+        "original": "Web 2.0 refers to the second generation of the World Wide Web, typically thought to have begun around 2004 and still being the current state of what we access through the Internet. Web 2.0 is characterised by a shift towards websites that allow greater user participation, collaboration, and interaction. With Web 2.0, users can create and share content, connect with others through social networking, and access software and data from anywhere in the world through cloud computing. This has enabled greater knowledge-sharing, accessibility, and innovation in fields such as e-commerce, education, and entertainment. With the rise of social media platforms such as Facebook, Twitter, and Instagram, has also transformed the way people interact, communicate and collaborate across geographical and culture boundaries.",
+        "translation": "Web 2.0指的是万维网的第二代，通常被认为始于2004年左右，至今仍是我们通过互联网访问的当前状态。Web 2.0的特点是向允许更多用户参与、协作和互动的网站转变。通过Web 2.0，用户可以创建和共享内容，通过社交网络与他人连接，并通过云计算从世界任何地方访问软件和数据。这使得电子商务、教育和娱乐等领域的知识共享、可访问性和创新得到了增强。随着Facebook、Twitter和Instagram等社交媒体平台的兴起，人们跨地理和文化边界的互动、交流和协作方式也发生了转变。"
+      },
+      {
+        "original": "While Web 2.0 has enabled greater connectivity and accessibility, it has also raised issues around privacy and cybersecurity. Companies, notably the search engine and social media giants, collect user data for tracking and advertising purposes, leading to concerns around data privacy and the potential for misuse of individuals' personal information. Cyberbullying and misinformation have also become more prevalent on Web 2.0 social media platforms, and there are growing calls for greater regulation and oversight.",
+        "translation": "虽然Web 2.0实现了更大的连接性和可访问性，但它也引发了隐私和网络安全方面的问题。公司，特别是搜索引擎和社交媒体巨头，收集用户数据用于跟踪和广告目的，导致对数据隐私和个人信息可能被滥用的担忧。网络欺凌和错误信息在Web 2.0社交媒体平台上也变得更加普遍，越来越多的人呼吁加强监管和监督。"
+      },
+      {
+        "original": "Web 3.0, also known as the \"Decentralised Web\", is seen as the next stage in the evolution of the World Wide Web. It is characterised by a focus on decentralisation, security, and transparency, and proponents argue it will shift power away from central authorities and towards individual users, providing Internet users with more control over their data and transactions.",
+        "translation": "Web 3.0，也被称为\"去中心化网络\"，被视为万维网演变的下一阶段。它的特点是注重去中心化、安全性和透明度，支持者认为它将权力从中央机构转移到个人用户，为互联网用户提供对其数据和交易的更多控制。"
+      },
+      {
+        "original": "One of the key technologies driving Web 3.0 is blockchain, which is a decentralised and transparent ledger that enables secure and trustworthy transactions without the need for intermediaries. Blockchain technology has the potential to revolutionise fields such as finance, healthcare, and supply chain management by enabling secure and transparent transactions that are more resistant to fraud and manipulation than current systems used through Web 2.0.",
+        "translation": "推动Web 3.0的关键技术之一是区块链，它是一种去中心化的透明账本，无需中介即可实现安全可信的交易。区块链技术有潜力通过实现比Web 2.0使用的当前系统更能抵抗欺诈和操纵的安全透明交易，彻底改变金融、医疗保健和供应链管理等领域。"
+      },
+      {
+        "original": "Web 3.0 is also expected to incorporate greater use of artificial intelligence and machine learning, which may be able to provide more personalised user experiences online. For example, AI algorithms can potentially analyse user behaviour and preferences to provide personalised recommendations and search results. The \"Semantic Web\" is another concept likely to become a feature of Web 3.0. The Semantic Web aims to enable more intelligent searches and interactions with technology, through creating standardised, machine-readable data that can be easily interpreted by computers. Advocates claim this should enable more efficient and intelligent processing of information, but the increased comprehension of the \"semantics\" of the data processed by these computers has raised some concerns.",
+        "translation": "Web 3.0预计还将更多地使用人工智能和机器学习，这可能能够提供更个性化的在线用户体验。例如，人工智能算法可能能够分析用户行为和偏好，提供个性化的推荐和搜索结果。\"语义网\"是另一个可能成为Web 3.0特征的概念。语义网旨在通过创建标准化的、机器可读的数据，使计算机能够轻松解释，从而实现更智能的搜索和与技术的互动。倡导者声称，这应该能够实现更高效、更智能的信息处理，但这些计算机对所处理数据\"语义\"的理解增加引发了一些担忧。"
+      },
+      {
+        "original": "Whilst computers may be able to interpret and process information in a more human-like manner (which goes beyond its current understanding, limited to keywords or syntax), it may lead to unintended processing of personal data and intrusive methods of processing personal data (such as profiling), potentially in breach of privacy regulations, such as GDPR.",
+        "translation": "虽然计算机可能能够以更类人的方式解释和处理信息（超越了其当前仅限于关键词或语法的理解），但这可能导致个人数据的意外处理和侵入性的个人数据处理方法（如分析），可能违反隐私法规，如GDPR。"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "How to make friends and meet new people",
+    "titleCN": "如何交朋友和结识新朋友",
+    "createdAt": "2026-01-31T05:47:04.385Z",
+    "paragraphs": [
+      {
+        "original": "Whether you're changing schools, starting uni or you'd just love a new bestie, everyone goes through the experience of wanting to make new friends at some point in their life. Sometimes this can be easy as, but unfortunately there are times when it's not quite as simple.",
+        "translation": "无论你是转校、开始大学生活，还是只是想要一个新的好朋友，每个人在人生的某个阶段都会经历想要结交新朋友的体验。有时这可能很容易，但不幸的是，有时却不那么简单。"
+      },
+      {
+        "original": "If you're in the early stages of wanting to make some new mates, you might be thinking: where do I even start? So we went to the street to ask people for their top tips for making friends.",
+        "translation": "如果你正处于想要结交新朋友的初期阶段，你可能会想：我甚至从哪里开始？所以我们走上街头，向人们询问他们交朋友的最佳建议。"
+      },
+      {
+        "original": "How to make new friends",
+        "translation": "如何结交新朋友"
+      },
+      {
+        "original": "Meeting new people and creating new relationships can be a nerve-wracking experience, because you have to really put yourself out there.",
+        "translation": "结识新朋友和建立新关系可能是一种令人紧张的经历，因为你必须真正地展现自己。"
+      },
+      {
+        "original": "When it comes to making new friends it can be tough to get started, so we've put together our 10 best tips to guide you on making some new mates.",
+        "translation": "说到结交新朋友，开始可能很困难，所以我们整理了10个最佳建议，指导你结交新朋友。"
+      },
+      {
+        "original": "10 tips on making new friends that anyone can try",
+        "translation": "任何人都可以尝试的10个结交新朋友的建议"
+      },
+      {
+        "original": "Join a club or sports team, something that gets you meeting new people.",
+        "translation": "加入一个俱乐部或运动队，做一些能让你结识新朋友的事情。"
+      },
+      {
+        "original": "Be open-minded and open to new things.",
+        "translation": "保持开放的心态，接受新事物。"
+      },
+      {
+        "original": "Be confident and start conversations.",
+        "translation": "自信一点，主动开始对话。"
+      },
+      {
+        "original": "Break the ice with a joke or a compliment.",
+        "translation": "用笑话或赞美来打破僵局。"
+      },
+      {
+        "original": "Put yourself out there and genuinely be yourself.",
+        "translation": "展现自己，真诚地做自己。"
+      },
+      {
+        "original": "Don't take yourself too seriously.",
+        "translation": "不要太把自己当回事。"
+      },
+      {
+        "original": "Show you want to learn more, ask questions about their life and hobbies.",
+        "translation": "表现出你想了解更多，询问关于他们生活和爱好的问题。"
+      },
+      {
+        "original": "Send them memes you know they'd like.",
+        "translation": "给他们发你知道他们会喜欢的表情包。"
+      },
+      {
+        "original": "Practise active listening and make eye contact.",
+        "translation": "练习积极倾听并进行眼神交流。"
+      },
+      {
+        "original": "Be friendly and warm, kind and encouraging.",
+        "translation": "友好热情，善良鼓励。"
+      }
+    ]
+  },
+  {
     "id": "3",
     "title": "Best apples to eat? Healthiest types from green to red and everything in between",
     "titleCN": "吃哪种苹果最好？从青到红，各种颜色中最健康的品种",
-    "createdAt": "2026-01-21T10:43:53.481Z",
+    "createdAt": "2026-01-31T05:47:04.387Z",
     "paragraphs": [
       {
         "original": "Apples are a *classic*(经典的) fruit choice. They're the *unofficial mascot*(非官方吉祥物) of lunchbox side dishes and they make a delicious afternoon snack when *dipped in*(蘸上) peanut butter. They're even available at McDonald's as a healthy Happy Meal side.",
@@ -375,7 +987,7 @@
     "id": "4",
     "title": "China's BYD overtakes Tesla's electric car sales in the last quarter of 2023",
     "titleCN": "中国比亚迪在2023年第四季度的电动汽车销量超过特斯拉",
-    "createdAt": "2026-01-21T10:43:53.482Z",
+    "createdAt": "2026-01-31T05:47:04.388Z",
     "paragraphs": [
       {
         "original": "Chinese company BYD sold more *electric vehicles*(电动汽车) than Elon Musk's Tesla in the last three months of 2023 as the two battled for *top spot*(头把交椅) in the sector.",
@@ -455,7 +1067,7 @@
     "id": "5",
     "title": "The breakthrough in augmented and virtual reality - Apple Vision Pro",
     "titleCN": "增强现实与虚拟现实的突破 - Apple Vision Pro",
-    "createdAt": "2026-01-21T10:43:53.483Z",
+    "createdAt": "2026-01-31T05:47:04.389Z",
     "paragraphs": [
       {
         "original": "The Launch of the Apple Vision Pro marks a significant step in the development of *augmented and virtual reality*(增强现实与虚拟现实). *With a focus*(专注于) on high-quality technology, innovative features and a higher price point, Apple *is aiming to*(旨在) transform the way we perceive reality. The coming months will show how consumers will react to this *ground-breaking*(突破性的) AR and VR headset.",
@@ -487,7 +1099,7 @@
     "id": "6",
     "title": "Bird flu kills thousands of sea birds, marine animals in Peru",
     "titleCN": "秘鲁发生禽流感，数千只海鸟和海洋动物死亡",
-    "createdAt": "2026-01-21T10:43:53.484Z",
+    "createdAt": "2026-01-31T05:47:04.390Z",
     "paragraphs": [
       {
         "original": "Scientists do not rule out transmission of potentially deadly virus to humans",
@@ -547,7 +1159,7 @@
     "id": "7",
     "title": "3000-Year-Old City Hidden In Amazon Rainforest Discovered",
     "titleCN": "亚马逊雨林中发现了一座有3000年历史的隐藏城市",
-    "createdAt": "2026-01-21T10:43:53.485Z",
+    "createdAt": "2026-01-31T05:47:04.391Z",
     "paragraphs": [
       {
         "original": "A huge city hidden by the *luxuriant vegetation*(茂密植被) of the *Amazon rainforest*(亚马逊雨林) has been discovered in Ecuador. According to the BBC, the houses and plazas in the *ancient city*(古城) in Upano valley were connected by a network of *roads and canals*(道路和运河). The area lies in the shadow of a *volcano*(火山) that created rich local soils, the outlet further said. The discovery was made using *LiDar*(激光雷达), a popular *remote sensing*(遥感) method that uses light to measure distances and is also known as *laser scanning*(激光扫描) or 3D scanning.",
@@ -583,7 +1195,7 @@
     "id": "8",
     "title": "Shanghai Disney's new attraction draws visitors",
     "titleCN": "上海迪士尼新景点吸引游客",
-    "createdAt": "2026-01-21T10:43:53.486Z",
+    "createdAt": "2026-01-31T05:47:04.391Z",
     "paragraphs": [
       {
         "original": "A performance marks the opening of Shanghai Disneyland's *Zootopia land*(疯狂动物城园区) on Tuesday.",
@@ -643,7 +1255,7 @@
     "id": "9",
     "title": "William Shakespeare Statue in Budapest",
     "titleCN": "布达佩斯的威廉·莎士比亚雕像",
-    "createdAt": "2026-01-21T10:43:53.487Z",
+    "createdAt": "2026-01-31T05:47:04.392Z",
     "paragraphs": [
       {
         "original": "How did an Australian statue of the *Bard of Avon*(埃文河畔诗人) end up in *Hungary*(匈牙利)?",

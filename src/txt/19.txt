@@ -1,0 +1,23 @@
+China proposes an ambitious plan to prevent internet addiction in children
+中国提出防止儿童网络成瘾的雄心计划
+
+The Cyberspace Administration proposes that developers create a ‘minor mode’ that offers content based on age and establishes time limits on devices
+网信办提议开发者创建基于年龄提供内容并设置设备使用时间限制的「青少年模式」
+
+Chinese authorities have resolved to put the brakes on children’s social media addictions and control the content that children and teens consume online.
+中国有关部门已决定遏制儿童社交媒体成瘾问题，并控制儿童和青少年在线消费的内容。
+
+The Cyberspace Administration of China (CAC), the country’s primary internet regulatory organ, has proposed that manufacturers of mobile devices, operating systems, applications and app stores create a new function called “minor mode,” which will involve a system of age-based content classification and establish time limits for use of the smart terminals. The proposal will be open to comments until September 2, and the timeline of its implementation has not been established. The project, which has been well-received by many parents, could bring a new challenge for tech companies, who face an increase in government intervention.
+中国国家互联网信息办公室（网信办）作为中国主要的互联网监管机构，已提议移动设备、操作系统、应用程序和应用商店的制造商创建一个名为「青少年模式」的新功能，该功能将包括基于年龄的内容分类系统，并为智能终端的使用设定时间限制。该提案将在9月2日前公开征求意见，其实施时间表尚未确定。这一项目受到了许多家长的欢迎，但可能会给科技公司带来新的挑战，因为它们面临着政府干预的增加。
+
+Though most smart devices already have pre-installed parental control functions, CAC’s plan is much more ambitious. According to the description on its website, the proposal involves connecting mobile phones directly with app stores and apps themselves, so that the minor mode can be activated with a single click. The function will allow the user to access an interface adapted to their age. It can be disabled only with an adult’s verification and authorization.
+尽管大多数智能设备已经预装了家长控制功能，但网信办的计划要雄心勃勃得多。根据其网站上的描述，该提案涉及将手机直接与应用商店和应用程序本身连接，以便一键激活青少年模式。该功能将允许用户访问适合其年龄的界面。只有通过成人的验证和授权才能禁用该功能。
+
+Once activated, warning notifications will be sent when the device has been used for more than 30 minutes continuously. Applications will not function between ten p.m. and six a.m. During those hours of inactivity, however, certain functions will be permitted, such as emergency calls or the use of educational platforms or others approved by the user’s parents.
+一旦激活，当设备连续使用超过30分钟时，将发送警告通知。应用程序在晚上10点至早上6点之间将无法运行。然而，在这些不活跃的时段，某些功能将被允许使用，如紧急呼叫或使用教育平台或用户父母批准的其他平台。
+
+The system will be divided into five intervals according to age: below 3 years old, 3 to 8 years old, 8 to 12, 12 to 16 and 16 to 18. The time limits will also vary according to the group: 40 minutes for those younger than 8, an hour for those between 8 and 16 and up to two hours for teenagers between 16 and 18 years old.
+该系统将根据年龄分为五个区间：3岁以下、3至8岁、8至12岁、12至16岁和16至18岁。时间限制也会因年龄段而异：8岁以下为40分钟，8至16岁为1小时，16至18岁的青少年最多为2小时。
+
+The text urges content creators to offer age-appropriate products and information. The CAC suggests that they “promote the fundamental values of socialism” and “traditional Chinese culture” in order to “cultivate minors’ morals and affection for their country.”
+该文件敦促内容创作者提供适合年龄的产品和信息。网信办建议他们「弘扬社会主义核心价值观」和「中华优秀传统文化」，以「培养未成年人的道德品质和爱国情怀」。
